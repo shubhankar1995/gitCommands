@@ -3,6 +3,7 @@
 Frequently used Git commands
 
 ## Clone a git repository
+The `url` can ebe either `https` or `ssh`. 
 
 ```git clone `url` ```
 
