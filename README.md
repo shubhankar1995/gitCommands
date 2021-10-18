@@ -15,5 +15,12 @@ Example
 
 ## Status of repository
 Get the difference between the loacl and the version online
+
 ```git status```
 
+<hr />
+
+## Add a file to commit
+Load a file for uploading
+
+```git add filename.txt```
