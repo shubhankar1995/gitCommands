@@ -20,7 +20,11 @@ Get the difference between the loacl and the version online
 
 <hr />
 
-## Add a file to commit
+## Add files to commit
 Load a file for uploading
 
 ```git add filename.txt```
+
+To upload all the files
+
+```git add -A```
