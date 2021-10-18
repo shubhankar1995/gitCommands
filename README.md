@@ -57,3 +57,12 @@ Undo all the changes(Add) made
 Undo only a specific file
 
 ```git reset filename.txt```
+
+<hr />
+
+## Set the Git profile
+Execute the following commands with your details
+
+```git config --global user.name "your_username"```
+
+```git config --global user.email "your_email_address@example.com"```
