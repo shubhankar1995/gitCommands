@@ -46,3 +46,14 @@ Example
 Get the updates from Git
 
 ```git pull```
+
+<hr />
+
+## Reset changes
+Undo all the changes(Add) made
+
+```git reset```
+
+Undo only a specific file
+
+```git reset filename.txt```
