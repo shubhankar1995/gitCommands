@@ -28,3 +28,10 @@ Load a file for uploading
 To upload all the files
 
 ```git add -A```
+
+<hr />
+
+## Updates from Git
+Get the updates from Git
+
+```git pull```
