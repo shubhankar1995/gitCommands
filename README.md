@@ -31,6 +31,17 @@ To upload all the files
 
 <hr />
 
+## Commit
+Commit changes
+
+```git commit -m <message>```
+
+Example
+
+```git commit -m "Added a new file"```
+
+<hr />
+
 ## Updates from Git
 Get the updates from Git
 
