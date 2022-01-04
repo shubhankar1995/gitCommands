@@ -66,3 +66,16 @@ Execute the following commands with your details
 ```git config --global user.name "your_username"```
 
 ```git config --global user.email "your_email_address@example.com"```
+
+<hr />
+
+## Rebase branch with master
+Execute the following commands with your details
+
+```
+git commit -am "CS-XXXX : WIP"
+git checkout master
+git pull --rebase
+git checkout MY_BRANCH
+git rebase master
+```
